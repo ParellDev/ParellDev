@@ -34,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats (Graph Style)
-[![Restu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=restuusgh&bg_color=0d1117&color=61dafb&line=00bfff&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Parel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=restuusgh&bg_color=0d1117&color=61dafb&line=00bfff&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
