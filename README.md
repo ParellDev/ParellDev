@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hi, I'm Restu! 👋  
-👩🏻‍💻 Frontend Developer  
+### Hi, I'm Parel! 👋  
+👩🏻‍💻 FullStack Developer  
 👩🏻‍🎓 Informatics Engineering | Universitas Islam Nusantara  
 🎨 Web Developer & UI Enthusiast  
 💭 Currently exploring **ReactJS** and **ExpressJS**  
